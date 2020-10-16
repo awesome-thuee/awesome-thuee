@@ -8,6 +8,8 @@ A curated list of Guidance &amp; Reference for courses in Department of Electron
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品由贡献者编写部分默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。其他部分的版权归属于其各自的作者，部分贡献者可能有特殊的许可协议。资料仅供参考，请自己判断其适用性。
 
+## Awesome List
+
 ## 贡献
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
