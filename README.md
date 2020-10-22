@@ -10,6 +10,22 @@ A curated list of Guidance &amp; Reference for courses in Department of Electron
 
 ## Awesome List
 
+### 工具、模板
+
+- [duskmoon314/THU_EXP](https://github.com/duskmoon314/THU_EXP): 实验课会用到的一些工具和报告模板
+
+### 大一课程相关
+
+### 大二课程相关
+
+- [zxdclyz/THUEEOJ_Technique](https://github.com/zxdclyz/THUEEOJ_Technique): 2018 八字班整理的的一些数算 OJ 技巧
+
+### 大三课程相关
+
+### 大四课程相关
+
+### 其他
+
 ## 贡献
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
